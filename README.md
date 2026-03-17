@@ -26,3 +26,7 @@ This browser version allows you to experience the game instantly without install
 ## Tags
 
 indie horror game, visual novel, browser game, creepy game
+
+## 🌐 Live Demo
+
+👉 https://cherryyan1987.github.io/kingdom-of-marionettes-browser/
