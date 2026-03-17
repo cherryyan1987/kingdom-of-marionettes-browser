@@ -13,6 +13,7 @@ This browser version allows you to experience the game instantly without install
 ## ▶️ Play Online
 
 👉 https://kingdomofmarionettes.live
+[![Play Now](https://img.shields.io/badge/Play-Online-blue)](https://kingdomofmarionettes.live)
 
 ## Features
 
